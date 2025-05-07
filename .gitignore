@@ -1,0 +1,131 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional stylelint cache
+.stylelintcache
+
+# dotenv environment variables file
+.env
+.env.test
+.env.local
+.env.development
+.env.production
+.env.*.local
+
+# Next.js build output
+.next/
+out/
+
+# Nuxt.js build / generate output
+.nuxt/
+dist/
+
+# Gatsby files
+.cache/
+public/
+
+# Vue.js build / generate output
+dist/
+*.cache
+
+# Svelte build output
+public/build/
+
+# Rollup cache
+.rollup.cache/
+
+# Temporary files
+*.tmp
+*.swp
+
+# Mac system files
+.DS_Store
+
+# Coverage directory
+coverage/
+*.lcov
+
+# Parcel-bundler cache
+.cache/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Optional REPL history
+.node_repl_history
+
+# PM2 process logs
+pids/
+*.pid
+*.pid.lock
+pm2-logs/
+
+# Temporary folder for downloads
+downloads/
+
+# Vim temporary files
+*.swp
+*.swo
+*~
+
+# Editor directories and files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Test coverage
+coverage/
+
+# Compiled output
+build/
+tmp/
+
+# Docker specific files
+docker-compose.override.yml
+
+# Dist files
+dist/
+
+# Yarn integrity file
+.yarn-integrity
+
+# Ignore .env for security
+.env
+.env.*
+
+# Ignore lock files
+yarn.lock
+package-lock.json
+pnpm-lock.yaml
+
+# Logs from pm2
+pm2.log
+pm2-error.log
+
+# Ignore npm config
+.npmrc
+
+# Ignore AWS SAM build files
+.aws-sam/build/
