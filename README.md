@@ -1,6 +1,6 @@
 # 🛠️ Webhook GitHub JS
 
-Webhook GitHub JS adalah sebuah proyek sederhana untuk mengotomatisasi proses Continuous Integration (CI) dan Continuous Deployment (CD) pada server menggunakan GitHub Webhook.
+Webhook GitHub Javascript (JS) adalah sebuah proyek sederhana untuk mengotomatisasi proses Continuous Integration (CI) dan Continuous Deployment (CD) pada server menggunakan GitHub Webhook.
 
 Proyek ini memungkinkan Anda untuk:
 - Mengatur auto git pull dan pm2 restart setelah update di GitHub.
